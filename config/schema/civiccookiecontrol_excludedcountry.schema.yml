@@ -1,0 +1,13 @@
+civiccookiecontrol.excludedcountry.*:
+  type: config_entity
+  label: 'Cookie Control Excluded Country'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    uuid:
+      type: string
+      label: 'UUID'
+    excludedCountryIsoCode:
+      type: label
+      label: 'Excluded Country Iso Code'

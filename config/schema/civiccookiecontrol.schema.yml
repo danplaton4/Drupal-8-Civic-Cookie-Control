@@ -1,0 +1,170 @@
+civiccookiecontrol.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    civiccookiecontrol_api_key:
+      type: string
+    civiccookiecontrol_product:
+      type: string
+    civiccookiecontrol_initial_state:
+      type: string
+    civiccookiecontrol_layout:
+      type: string
+    civiccookiecontrol_on_text:
+      type: string
+    civiccookiecontrol_off_text:
+      type: string
+    civiccookiecontrol_accept_text:
+      type: string
+    civiccookiecontrol_reject_text:
+      type: string
+    civiccookiecontrol_accept_recommended:
+      type: string
+    civiccookiecontrol_reject_settings:
+      type: string
+    civiccookiecontrol_setting_text:
+      type: string
+    civiccookiecontrol_widget_position:
+      type: string
+    civiccookiecontrol_widget_theme:
+      type: string
+    civiccookiecontrol_remove_icon:
+      type: boolean
+    civiccookiecontrol_remove_about_text:
+      type: boolean
+    civiccookiecontrol_font_color:
+      type: string
+    civiccookiecontrol_font_family:
+      type: string
+    civiccookiecontrol_alert_text:
+      type: string
+    civiccookiecontrol_alert_background:
+      type: string
+    civiccookiecontrol_font_size_title:
+      type: string
+    civiccookiecontrol_font_size_intro:
+      type: string
+    civiccookiecontrol_font_size_headers:
+      type: string
+    civiccookiecontrol_font_size:
+      type: string
+    civiccookiecontrol_background_color:
+      type: string
+    civiccookiecontrol_toggle_text:
+      type: string
+    civiccookiecontrol_toggle_color:
+      type: string
+    civiccookiecontrol_toggle_background:
+      type: string
+    civiccookiecontrol_button_icon:
+      type: string
+    civiccookiecontrol_button_icon_width:
+      type: string
+    civiccookiecontrol_button_icon_height:
+      type: string
+    civiccookiecontrol_title_text:
+      type: text
+    civiccookiecontrol_intro_text:
+      type: text
+    civiccookiecontrol_necessary_title_text:
+      type: text
+    civiccookiecontrol_necessary_desc_text:
+      type: text
+    civiccookiecontrol_notify_title_text:
+      type: text
+    civiccookiecontrol_notify_desc_text:
+      type: text
+    civiccookiecontrol_third_party_title_text:
+      type: text
+    civiccookiecontrol_third_party_desc_text:
+      type: text
+    civiccookiecontrol_consent_cookie_expiry:
+      type: text
+    civiccookiecontrol_privacynode:
+      type: string
+    civiccookiecontrol_debug:
+      type: boolean
+    civiccookiecontrol_stmt_descr:
+      type: string
+    civiccookiecontrol_stmt_name:
+      type: string
+    civiccookiecontrol_stmt_url:
+      type: string
+    civiccookiecontrol_stmt_date:
+      type: string
+    civiccookiecontrol_log_consent:
+      type: boolean
+    civiccookiecontrol_encode_cookie:
+      type: boolean
+    civiccookiecontrol_sub_domains:
+      type: boolean
+    civiccookiecontrol_toggle_type:
+      type: string
+    civiccookiecontrol_close_style:
+      type: string
+    civiccookiecontrol_settings_style:
+      type: string
+    civiccookiecontrol_access_key':
+      type: string
+    civiccookiecontrol_highlight_focus:
+      type: boolean
+    civiccookiecontrol_notify_once:
+      type: boolean
+    civiccookiecontrol_reject_button:
+      type: boolean
+    civiccookiecontrol_onload:
+      type: text
+    civiccookiecontrol_close_label:
+      type: string
+    civiccookiecontrol_accessibility_alert:
+      type: text
+    civiccookiecontrol_accept_text_color:
+      type: string
+    civiccookiecontrol_accept_background_color:
+      type: string
+    civiccookiecontrol_drupal_admin:
+      type: boolean
+
+iab.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    iabCMP:
+      type: boolean
+    iabLanguage:
+      type: string
+    iabGdprAppliesGlobally:
+      type: boolean
+    iabRecommendedState:
+      type: text
+    iabLabelText:
+      type: text
+    iabDescriptionText:
+      type: text
+    iabConfigureText:
+      type: text
+    iabPanelTitleText:
+      type: text
+    iabPanelIntroText:
+      type: text
+    iabAboutIabText:
+      type: text
+    iabIabNameText:
+      type: text
+    iabIabLinkText:
+      type: string
+    iabPanelBackText:
+      type: string
+    iabVendorTitleText:
+      type: string
+    iabVendorConfigureText:
+      type: string
+    iabVendorBackText:
+      type: string
+    iabAcceptAllText:
+      type: string
+    iabRejectAllText:
+      type: string
+    iabBackText:
+      type: string
+
