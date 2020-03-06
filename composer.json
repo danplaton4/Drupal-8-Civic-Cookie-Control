@@ -2,5 +2,9 @@
   "name": "civic/civiccookiecontrol",
   "description": "Civic - Cookie Control",
   "type": "drupal-custom-module",
-  "minimum-stability": "dev"
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/danplaton4/Drupal-8-Civic-Cookie-Control",
+  "require": {
+    "php": ">=7.1"
+  }
 }
