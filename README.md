@@ -11,18 +11,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Composer ==
 
-`composer require 'civic/civiccookiecontrol' --prefer-dist`
-
 Add this to the "config" section of your main `composer.json` file so the `.git` folder isn't pulled in when running `composer install` or `composer update` on other servers. 
 
 ```
 "config": {
-    "sort-packages": true,
     "preferred-install" : {
         "civic/civiccookiecontrol": "dist"
     }
-},
+}
 ```
+
+`composer require 'civic/civiccookiecontrol'`
 
 This module enables you to comply with the UK and EU law on cookies.
 
