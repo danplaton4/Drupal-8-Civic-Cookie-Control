@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Composer ==
 
-composer require 'civic/civiccookiecontrol' --prefer-dist
+`composer require 'civic/civiccookiecontrol' --prefer-dist`
 
 This module enables you to comply with the UK and EU law on cookies.
 
