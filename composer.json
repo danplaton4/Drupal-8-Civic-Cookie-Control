@@ -1,5 +1,6 @@
 {
   "name": "civic/civiccookiecontrol",
+  "version": "8.3",
   "description": "Civic - Cookie Control",
   "type": "drupal-custom-module",
   "license": "GPL-2.0-or-later",
